@@ -1,0 +1,7 @@
+name 'demo_trusted_certs'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures demo_trusted_certs'
+long_description 'Installs/Configures demo_trusted_certs'
+version '0.1.0'
